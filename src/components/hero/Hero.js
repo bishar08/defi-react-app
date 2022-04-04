@@ -10,7 +10,7 @@ const Hero = () => {
       </video>
 
       <div className="hero-text">
-        <h1>Decentralized</h1>
+        <h1 id="platform">Decentralized</h1>
         <h1>
           <span className="blue">Trading </span>Protocol
         </h1>

@@ -8,7 +8,7 @@ const About = () => {
   return (
     <div className="about">
       <div className="container">
-        <h2>A Growing protocol of Ecosystem</h2>
+        <h2 id="about">A Growing protocol of Ecosystem</h2>
         <p>
           The Defi protocol system empowers developers, liquidity providers, and
           traders to participate in a financial marketplace that is open and
